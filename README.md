@@ -2,7 +2,7 @@
 
 > Low‑power Arduino Pro Mini + DS3231 + continuous‑rotation servo
 
-![door sketch](docs/coop‑door‑banner.png)
+![chicken_coop](https://github.com/user-attachments/assets/5ef46eaf-d0f0-4d41-93c5-d69a680d93e1)
 
 A micro‑power controller that opens your chicken‑coop door every morning, closes it every evening, and then sleeps at ≈ 2 µA so a single 18650 (or four AA cells) can run it for **months**.
 
